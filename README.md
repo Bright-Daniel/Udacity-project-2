@@ -1,16 +1,16 @@
-# Udacity-project-2:Wrangle and Analyze Data
-The main aim of this project is to wrangle data to produce high-quality and tidy data which will eventually be analyzed to produce at least 3 insights and 1 visualization. The data will be gathered from 3 different sources in different formats: csv, tsv, and txt.
+# Udacity-project-2:Wrangle and Analyze Data.
+Aim: To wrangle data to produce high-quality and tidy data which will be analyzed to produce at least 3 insights and 1 visualization. The data was gathered from 3 different sources in different formats: csv, tsv, and txt.
 
 # Installation
-import pandas as pd 
-import numpy as np 
-import requests 
-import tweepy 
-from tweepy import OAuthHandler
-import json 
-import matplotlib.pyplot as plt 
-%matplotlib inline 
-import seaborn as sns
+import pandas as pd,
+import numpy as np,
+import requests, 
+import tweepy,
+from tweepy import OAuthHandler,
+import json,
+import matplotlib.pyplot as plt,
+%matplotlib inline,
+import seaborn as sns,
 sns.set_style("darkgrid")
 # Gathering Data
 The data used in this analysis include:
